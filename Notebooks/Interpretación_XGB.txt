@@ -1,0 +1,11 @@
+La precisión para la clase 0 indica que el 80.6% de las predicciones del modelo donde se clasificó a una persona como activa (clase 0) fueron correctas. 
+La precisión para la clase 1 indica que el 86.9% de las predicciones del modelo donde se clasificó a una persona como retirada (clase 1) fueron correctas.
+
+El recall para la clase 0 indica que el 87.3% de las personas activas (clase 0) fueron correctamente clasificadas por el modelo. 
+El recall para la clase 1 indica que el 80.1% de las personas retiradas (clase 1) fueron correctamente clasificadas por el modelo.
+
+El F1-score es una medida que combina precisión y recall en un solo valor, y se utiliza cuando se quiere tener en cuenta ambas métricas en lugar de solo una de ellas. 
+El F1-score para la clase 0 es 0.839, lo que indica un buen equilibrio entre precisión y recall para esta clase. 
+El F1-score para la clase 1 es 0.833, lo que también indica un buen equilibrio entre precisión y recall para esta clase.
+
+En general, estas métricas indican que el modelo tiene un buen desempeño en la clasificación tanto de personas activas como retiradas.
